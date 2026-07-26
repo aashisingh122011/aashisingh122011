@@ -1,6 +1,6 @@
 ## Hi there I am Aashi Singh
-# I am a 10 grader in the IB program offered in PESH (plano east senior high school)
-# I'm currently working on making a app for my STEM robotics club that is offered for JROTC students that will help me code our robot (bot) easier based on the new rules VEX has applied this year. 
+ I am a 10 grader in the IB program offered in PESH (plano east senior high school)
+ I'm currently working on making a app for my STEM robotics club that is offered for JROTC students that will help me code our robot (bot) easier based on the new rules VEX has applied this year. 
 # I'm currently looking new ways and reasources to help me get into the aerospace field since I am intrested in the Aerospace Engineer field. 
 # Some ways to contact me are 
 #    -Email: aashi.singh.122011@gmail.com
