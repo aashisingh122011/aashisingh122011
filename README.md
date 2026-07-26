@@ -1,10 +1,10 @@
-## Hi there I am Aashi Singh, 10 grader in PESH
+## Hi there I am Aashi Singh
 
 <!--
 **aashisingh122011/aashisingh122011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+I am a 10 grader in the IB program offered in PESH (plano east senior high school)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
