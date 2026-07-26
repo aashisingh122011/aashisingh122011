@@ -5,7 +5,7 @@ I'm currently looking new ways and reasources to help me get into the aerospace 
 # Some ways to contact me are 
     -Email: aashi.singh.122011@gmail.com
     -Phone: 
-    I’m looking for help with some new ways to find new reasources for aerospace and simple coding for robotics 
+I’m looking for help with some new ways to find new reasources for aerospace and simple coding for robotics 
     
 <!--
 **aashisingh122011/aashisingh122011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
