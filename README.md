@@ -1,12 +1,12 @@
 ## Hi there I am Aashi Singh
- I am a 10 grader in the IB program offered in PESH (plano east senior high school)
- I'm currently working on making a app for my STEM robotics club that is offered for JROTC students that will help me code our robot (bot) easier based on the new rules VEX has applied this year. 
-# I'm currently looking new ways and reasources to help me get into the aerospace field since I am intrested in the Aerospace Engineer field. 
+I am a 10 grader in the IB program offered in PESH (plano east senior high school)
+I'm currently working on making a app for my STEM robotics club that is offered for JROTC students that will help me code our robot (bot) easier based on the new rules VEX has applied this year. 
+I'm currently looking new ways and reasources to help me get into the aerospace field since I am intrested in the Aerospace Engineer field. 
 # Some ways to contact me are 
-#    -Email: aashi.singh.122011@gmail.com
+    -Email: aashi.singh.122011@gmail.com
     -Phone: 
-# I’m looking for help with some new ways to find new reasources for aerospace and simple coding for robotics 
-
+    I’m looking for help with some new ways to find new reasources for aerospace and simple coding for robotics 
+    
 <!--
 **aashisingh122011/aashisingh122011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
